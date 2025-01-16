@@ -1,4 +1,4 @@
-# MySQL-Project_Music Store Analysis
+# MySQL-Project_Music Playlist Analysis
 
 SQL project to analyze online music store data
 
